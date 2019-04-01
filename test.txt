@@ -1,11 +1,11 @@
-git clone git https://github.com/sauravjs/sau.git
+git clone git https://github.com/sauravjs/sau.git ////Only 1st Time
 
-git init
+git init	//Only 1st Time
 
 git add .
 
 git commit -m "your message"
 
-git remote add origin https://github.com/sauravjs/sau.git
+git remote add origin https://github.com/sauravjs/sau.git  //Only 1st Time
 
 git push -u origin master
