@@ -1,0 +1,11 @@
+git clone git https://github.com/sauravjs/sau.git
+
+git init
+
+git add .
+
+git commit -m "your message"
+
+git remote add origin https://github.com/sauravjs/sau.git
+
+git push -u origin master
